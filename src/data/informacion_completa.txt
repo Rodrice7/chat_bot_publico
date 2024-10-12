@@ -1,0 +1,154 @@
+### [Precios] 💰
+1. **Limpieza de Datos (Base para cualquier análisis)**  
+   - Descripción: Elimina errores, corrige inconsistencias y organiza datos desordenados para asegurar su calidad y precisión.  
+   - Ideal Para: Empresas con grandes volúmenes de datos no estructurados que necesitan organizarse antes de cualquier análisis.  
+   - Precio: $500 por lote de datos.
+
+2. **Exploratory Data Analysis (EDA)**  
+   - Descripción: Identificación de patrones, tendencias y relaciones dentro de los datos, ofreciendo insights iniciales.  
+   - Ideal Para: Directores y gerentes que necesitan entender los datos antes de tomar decisiones estratégicas.  
+   - Precio: $600 por conjunto de datos.
+
+3. **Visualización de Datos**  
+   - Descripción: Creación de dashboards interactivos y gráficos para facilitar la interpretación de resultados.  
+   - Ideal Para: Proyectos en los que la presentación visual es clave para comunicar resultados a stakeholders.  
+   - Precio: $800 por dashboard.
+
+4. **Sistema de Métricas (KPIs, OKRs)**  
+   - Descripción: Desarrollo de sistemas de seguimiento con indicadores clave personalizados para medir el rendimiento.  
+   - Ideal Para: Empresas que buscan monitorear sus objetivos y evaluar su progreso de manera continua.  
+   - Precio: $1,500 por sistema de métricas.
+
+5. **Integración de Múltiples Fuentes de Datos**  
+   - Descripción: Unificación de datos de múltiples fuentes para una visión integrada y coherente del negocio.  
+   - Ideal Para: Proyectos con datos dispersos que necesitan ser consolidados para análisis más profundos.  
+   - Precio: $2,000 por integración.
+
+6. **Machine Learning y Modelos Econométricos**  
+   - Descripción: Implementación de algoritmos predictivos y modelos para anticipar tendencias y comportamientos.  
+   - Ideal Para: Empresas que desean prever cambios en el mercado.  
+   - Precio: $3,000 por modelo.
+
+**Paquetes de Servicios Combinados:**  
+1. **Paquete Básico:** Limpieza de Datos + EDA  
+   - Valor Añadido: Permite partir de datos limpios para un análisis inicial que revela los puntos clave.  
+   - Precio: $900
+
+2. **Paquete Estándar:** Limpieza de Datos + EDA + Visualización  
+   - Valor Añadido: Análisis completo con representación visual, ideal para reportes de gestión.  
+   - Precio: $1,500
+
+3. **Paquete Avanzado:** Limpieza de Datos + EDA + Visualización + Sistema de Métricas  
+   - Valor Añadido: Sistema de seguimiento y análisis continuo, recomendado para directores que necesitan reportar resultados.  
+   - Precio: $2,800
+
+4. **Paquete Premium:** Limpieza de Datos + EDA + Visualización + Sistema de Métricas + Machine Learning  
+   - Valor Añadido: Solución completa con capacidad predictiva. Ideal para planificación estratégica.  
+   - Precio: $5,000
+
+---
+
+### [Nuestros Servicios] 📊
+1. **Limpieza de Datos**  
+   - Descripción: Proceso fundamental para preparar los datos, eliminando errores, duplicados y estandarizando formatos para asegurar la calidad.
+
+2. **Exploratory Data Analysis (EDA)**  
+   - Descripción: Análisis descriptivo inicial para entender las características principales de los datos y encontrar patrones.
+
+3. **Visualización de Datos**  
+   - Descripción: Representación de los datos mediante gráficos y dashboards interactivos para facilitar la interpretación.
+
+4. **Creación de Sistemas de Métricas (KPIs, OKRs)**  
+   - Descripción: Definición y monitoreo de indicadores personalizados para medir el éxito en áreas críticas del negocio.
+
+5. **Machine Learning y Modelos Econométricos**  
+   - Descripción: Implementación de algoritmos para identificar patrones y predecir tendencias.
+
+6. **Integración de Múltiples Fuentes de Datos**  
+   - Descripción: Consolidación de diferentes bases de datos y archivos en una sola estructura.
+
+**Modalidades de Contratación:**  
+1. **Por Proyecto:** Un enfoque integral para crear una solución personalizada desde cero.  
+2. **Suscripción Mensual:** Mantenimiento de dashboards, actualización de indicadores y soporte continuo.  
+3. **Servicio Puntual:** Contratación única para resolver una necesidad puntual.
+
+---
+
+### [Metodología de Trabajo] 🔍
+**Forma de Trabajo:**  
+Mi enfoque se centra en ofrecer análisis de datos claros y accionables utilizando solo datos estructurados. Esto asegura que cada proyecto se construya sobre una base sólida, minimizando errores y maximizando la calidad del análisis.
+
+**Herramientas Utilizadas:**  
+1. Análisis y Modelado: Utilizo Python para limpieza, modelado y análisis estadístico avanzado.  
+2. Visualización y Dashboards: Desarrollo dashboards interactivos en Power BI y Tableau.  
+3. Consultas y Bases de Datos: Soporto consultas y bases de datos en SQL.
+
+**Capacidades Técnicas:**  
+1. Integración de Múltiples Fuentes: Capacidad para combinar y cruzar datos de múltiples fuentes internas y externas.  
+2. Modelos Predictivos: Implementación de Machine Learning para proyecciones y análisis de tendencias.
+
+**Tipos de Análisis Realizados:**  
+1. Estadística Descriptiva: Identificación y resumen de las características principales de los datos.  
+2. Estadística Inferencial: Pruebas de hipótesis y análisis estadísticos avanzados.  
+3. Exploratory Data Analysis (EDA): Exploración de patrones y correlaciones ocultas.
+
+---
+
+### [Términos y Condiciones] 📑
+1. **Definición del Alcance del Proyecto:** El alcance del proyecto se define detalladamente en la propuesta inicial aprobada por ambas partes.  
+2. **Revisión y Ajustes del Alcance:** Se permiten ajustes menores durante el proyecto sin costos adicionales.  
+3. **Plazos de Entrega y Tiempos:** Los plazos de entrega se acordarán antes de iniciar el proyecto.  
+4. **Métodos y Políticas de Pago:**  
+   - Adelanto del 50% del total para iniciar el trabajo.  
+   - Los pagos deben completarse en un plazo máximo de 7 días hábiles.  
+5. **Protección de Datos y Confidencialidad:** Todo dato proporcionado será tratado con la máxima confidencialidad.  
+6. **Resolución de Conflictos:**  
+   - Mediación y arbitraje en caso de disputas.  
+   - Jurisdicción local del país donde se formalice el contrato.
+
+---
+
+### [Flujo de Contratación] 🤝
+1. **Videollamada Exploratoria**  
+2. **Propuesta Comercial**  
+3. **Pago Inicial del 50%**
+
+---
+
+### [Preguntas Frecuentes] 🤔
+1. **¿Qué tipos de datos se necesitan para comenzar un proyecto?**  
+   Trabajo exclusivamente con datos estructurados, como archivos Excel, CSV, bases de datos SQL, o formatos JSON.
+
+2. **¿Realizas scraping o recolección automatizada de datos?**  
+   No. Todos los datos deben ser proporcionados por el cliente o deben ser de acceso público.
+
+3. **¿Cómo se entregan los resultados del análisis?**  
+   Los entregables se gestionan a través de plataformas como Power BI service y Tableau para dashboards interactivos.
+
+4. **¿Cuánto tiempo toma un proyecto típico?**  
+   La duración depende de la complejidad. Un análisis básico puede tardar aproximadamente 2 semanas.
+
+5. **¿Ofreces soporte y mantenimiento una vez que el proyecto ha sido entregado?**  
+   Sí. Los clientes que opten por un plan de suscripción mensual recibirán mantenimiento continuo.
+
+6. **¿Puedo combinar varios servicios o paquetes?**  
+   Sí, los servicios están diseñados como módulos independientes que se pueden combinar según tus necesidades.
+
+7. **¿Qué sucede si no estoy satisfecho con los resultados?**  
+   El proceso de revisión y ajustes permite asegurar que el resultado final cumpla con tus expectativas.
+
+8. **¿Cómo se manejan los pagos y los impagos?**  
+   Los pagos se realizan en dos partes: 50% al inicio y 50% a la entrega del proyecto.
+
+9. **¿Qué tipos de métodos de pagos poseen?**  
+   Tranferencia Bancaria: Zinli, Payoneer, Vitawallet
+   Criptonomendas: Binance, Metamask, Vitawallet
+
+
+---
+
+### [Formas de contacto] 🤝
+1. **Correo electronico:**  jimenezdata7@gmail.com 
+2. **Telefono:** https://wa.me/584242836670
+3. **Calendario para videollamada:** (https://calendly.com/jimenezdata7/30min)
+    
