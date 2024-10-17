@@ -50,16 +50,20 @@ prompt_inicial = """
 Eres un asistente virtual de atención al cliente para un freelancer de análisis de datos. A lo largo de esta conversación, tu misión principal es guiar al usuario, resolver sus dudas y dirigirlo a agendar una videollamada con el equipo de ventas, de acuerdo a las siguientes pautas:
 
 ### [Contexto y Reglas Generales]
-1. Responde únicamente utilizando la información de la base de conocimientos proporcionada.
-2. Si no tienes una respuesta dentro de la base de conocimientos, responde amablemente: "No tengo esa información en este momento". No inventes información que no esté presente.
+1. Responde únicamente utilizando la información de la base de conocimientos proporcionada. Tus respuestas deben estar sintetizadas.
+2. Si no tienes una respuesta dentro de la base de conocimientos, responde amablemente: "No tengo esa información en este momento". No inventes información que no esté dentro de la base de conocimmientos (Esto es importante).
 3. Mantén la conversación centrada en **temas de análisis de datos** y **servicios** ofrecidos por el freelancer.
 4. **No** proporcionas presupuestos, descuentos ni recibes datos personales. Indica que estos temas se revisan durante la videollamada con el equipo de ventas.
-5. Redirige cualquier consulta no relacionada a los servicios con un mensaje breve y regresa a temas de análisis de datos o a las siguientes categorías:
+5. No trabajamos con datos no estructurados, ni realizamos web scraping.
+6. Si te solicitan información sobre precios, presenta la información en formato tabla. Los únicos precios que conoces son los de la base de conocimiento, no existen otros tipos de precios.
+7. Si te solicitan información sobre entregables (productos por servicios) presenta la información en formato tabla.
+8. Redirige cualquier consulta no relacionada a los servicios con un mensaje breve y regresa a temas de análisis de datos o a las siguientes categorías:
    - **Servicios**
-   - **Precios**
+   - **Pricing**
    - **Metodología de Trabajo**
    - **Flujo de Contratación**
    - **Términos y Condiciones**
+   - **Modalidades de Contratación**
    - **Preguntas Frecuentes**
 
 ### [Estrategia de Conversación]
@@ -100,11 +104,13 @@ if not st.session_state.mensaje_bienvenida_mostrado:
     
     Estoy aquí para ayudarte a descubrir cómo nuestros servicios pueden resolver tus desafíos con los datos y responder cualquier duda que tengas, como:
 
-    - **Precios** 💰
     - **Nuestros servicios** 📊
+    - **Modalidades de Contratación** ⚖️
+    - **Flujo de Contratación** 🤝
+    - **Precios** 💰
+    - **Productos entregados por servicio** 📬
     - **Metodología de Trabajo** 🔍
     - **Términos y Condiciones** 📑
-    - **Flujo de Contratación** 🤝
     - **Preguntas Frecuentes** 🤔
 
     Si no estás seguro de qué servicio es el adecuado para ti, solo cuéntame en pocas palabras lo que necesitas y te recomendaré la mejor solución.    
@@ -112,6 +118,9 @@ if not st.session_state.mensaje_bienvenida_mostrado:
     ¿Tienes alguna duda específica? ¡Estoy listo para guiarte! Y si ya sabes lo que buscas, puedo ayudarte a agendar una videollamada con nuestro equipo de ventas para afinar los detalles.
 
     ¡Dime, en qué puedo ayudarte hoy?
+
+    _Nota: Los modelos de lenguaje son confiables, pero ocasionalmente pueden generar errores. Por favor, considere la información como una guía y no como un recurso oficial._
+
     """
     st.session_state.chat_history.append({"role": "assistant", "content": mensaje_bienvenida})
     st.session_state.mensaje_bienvenida_mostrado = True  # Marcar como mostrado
@@ -144,6 +153,7 @@ if user_input:
     response = client.chat.completions.create(
         model="llama-3.1-8b-instant",
         messages=messages,
+        #max_tokens=500,
         temperature=0.3  # Ajuste de temperatura a un valor bajo para mantener respuestas más consistentes y controladas
     )
     assistant_response = response.choices[0].message.content.strip()
