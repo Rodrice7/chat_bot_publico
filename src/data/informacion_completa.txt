@@ -1,71 +1,55 @@
-### [Precios] 💰
-1. **Limpieza de Datos (Base para cualquier análisis)**  
-   - Descripción: Elimina errores, corrige inconsistencias y organiza datos desordenados para asegurar su calidad y precisión.  
-   - Ideal Para: Empresas con grandes volúmenes de datos no estructurados que necesitan organizarse antes de cualquier análisis.  
-   - Precio: $500 por lote de datos.
+### [Pricing] 💰
 
-2. **Exploratory Data Analysis (EDA)**  
-   - Descripción: Identificación de patrones, tendencias y relaciones dentro de los datos, ofreciendo insights iniciales.  
-   - Ideal Para: Directores y gerentes que necesitan entender los datos antes de tomar decisiones estratégicas.  
-   - Precio: $600 por conjunto de datos.
+Los precios listados están sujetos a negociación debido a la variabilidad en la complejidad de cada trabajo. Los detalles, límites y alcances se establecen durante una videollamada exploratoria. Se ofrecen tanto servicios puntuales como paquetes combinados, y estos se pueden adquirir bajo tres modalidades de contratación: por proyecto, suscripción mensual o servicio puntual.
 
-3. **Visualización de Datos**  
-   - Descripción: Creación de dashboards interactivos y gráficos para facilitar la interpretación de resultados.  
-   - Ideal Para: Proyectos en los que la presentación visual es clave para comunicar resultados a stakeholders.  
-   - Precio: $800 por dashboard.
+| Servicio                                 | Descripción                                          | Precio |
+|------------------------------------------|------------------------------------------------------|--------|
+| Limpieza de Datos                        | Elimina errores y organiza datos                     | $200   |
+| Exploratory Data Analysis (EDA)          | Identificación de patrones y tendencias              | $300   |
+| Visualización de Datos                   | Creación de dashboards interactivos                  | $400   |
+| Sistema de Métricas (KPIs, OKRs)         | Desarrollo de sistemas de indicadores personalizados | $300   |
+| Integración de Múltiples Fuentes de Datos| Unificación de datos dispersos (Cada integración)    | $100   |
+| Machine Learning y Modelos Econométricos | Algoritmos predictivos y modelos                     | $1,000 |
 
-4. **Sistema de Métricas (KPIs, OKRs)**  
-   - Descripción: Desarrollo de sistemas de seguimiento con indicadores clave personalizados para medir el rendimiento.  
-   - Ideal Para: Empresas que buscan monitorear sus objetivos y evaluar su progreso de manera continua.  
-   - Precio: $1,500 por sistema de métricas.
+**Paquetes de Servicios Combinados:**
 
-5. **Integración de Múltiples Fuentes de Datos**  
-   - Descripción: Unificación de datos de múltiples fuentes para una visión integrada y coherente del negocio.  
-   - Ideal Para: Proyectos con datos dispersos que necesitan ser consolidados para análisis más profundos.  
-   - Precio: $2,000 por integración.
+| Paquete             | Servicios Incluidos                                          | Precio |
+|---------------------|--------------------------------------------------------------|--------|
+| Paquete Básico      | Limpieza de Datos + EDA                                      | $400   |
+| Paquete Estándar    | Limpieza de Datos + EDA + Visualización                      | $700   |
+| Paquete Avanzado    | Limpieza de Datos + EDA + Visualización + Sistema de Métricas| $900   |
+| Paquete Premium     | Todos los anteriores + Machine Learning                      | $1700  |
 
-6. **Machine Learning y Modelos Econométricos**  
-   - Descripción: Implementación de algoritmos predictivos y modelos para anticipar tendencias y comportamientos.  
-   - Ideal Para: Empresas que desean prever cambios en el mercado.  
-   - Precio: $3,000 por modelo.
-
-**Paquetes de Servicios Combinados:**  
-1. **Paquete Básico:** Limpieza de Datos + EDA  
-   - Valor Añadido: Permite partir de datos limpios para un análisis inicial que revela los puntos clave.  
-   - Precio: $900
-
-2. **Paquete Estándar:** Limpieza de Datos + EDA + Visualización  
-   - Valor Añadido: Análisis completo con representación visual, ideal para reportes de gestión.  
-   - Precio: $1,500
-
-3. **Paquete Avanzado:** Limpieza de Datos + EDA + Visualización + Sistema de Métricas  
-   - Valor Añadido: Sistema de seguimiento y análisis continuo, recomendado para directores que necesitan reportar resultados.  
-   - Precio: $2,800
-
-4. **Paquete Premium:** Limpieza de Datos + EDA + Visualización + Sistema de Métricas + Machine Learning  
-   - Valor Añadido: Solución completa con capacidad predictiva. Ideal para planificación estratégica.  
-   - Precio: $5,000
+Nota: incluye 2 Integraciones de Múltiples Fuentes de Datos.
 
 ---
 
 ### [Nuestros Servicios] 📊
+Ofrecemos una gama de servicios que pueden ser adquiridos bajo tres modalidades de contratación: por proyecto, suscripción mensual o servicio puntual. Cada servicio está diseñado para adaptarse a las necesidades específicas del cliente.
+
 1. **Limpieza de Datos**  
-   - Descripción: Proceso fundamental para preparar los datos, eliminando errores, duplicados y estandarizando formatos para asegurar la calidad.
+   - Descripción: Proceso de eliminación de errores, corrección de inconsistencias y organización de datos desordenados.  
+   - Ideal Para: Empresas con volúmenes de datos con errores, incompletos o mal estructurados.
 
 2. **Exploratory Data Analysis (EDA)**  
-   - Descripción: Análisis descriptivo inicial para entender las características principales de los datos y encontrar patrones.
+   - Descripción: Identificación de patrones, tendencias y relaciones en los datos.  
+   - Ideal Para: Directores y gerentes que requieren insights iniciales para la toma de decisiones.
 
 3. **Visualización de Datos**  
-   - Descripción: Representación de los datos mediante gráficos y dashboards interactivos para facilitar la interpretación.
+   - Descripción: Creación de dashboards y gráficos interactivos para facilitar la interpretación de los resultados.  
+   - Ideal Para: Proyectos donde la presentación visual es clave para reportar resultados y una especial Herramienta para los equipos de análisis. 
 
-4. **Creación de Sistemas de Métricas (KPIs, OKRs)**  
-   - Descripción: Definición y monitoreo de indicadores personalizados para medir el éxito en áreas críticas del negocio.
+4. **Sistema de Métricas (KPIs, OKRs)**  
+   - Descripción: Desarrollo de sistemas de indicadores personalizados para medir el rendimiento.  
+   - Ideal Para: Empresas que buscan monitorear objetivos y progreso.
 
-5. **Machine Learning y Modelos Econométricos**  
-   - Descripción: Implementación de algoritmos para identificar patrones y predecir tendencias.
+5. **Integración de Múltiples Fuentes de Datos**  
+   - Descripción: Unificación de datos dispersos para una visión coherente del negocio.  
+   - Ideal Para: Proyectos que requieren consolidar datos de múltiples fuentes.
 
-6. **Integración de Múltiples Fuentes de Datos**  
-   - Descripción: Consolidación de diferentes bases de datos y archivos en una sola estructura.
+6. **Machine Learning y Modelos Econométricos**  
+   - Descripción: Implementación de algoritmos predictivos para anticipar cambios y comportamientos.  
+   - Ideal Para: Empresas que desean prever tendencias de mercado.
 
 **Modalidades de Contratación:**  
 1. **Por Proyecto:** Un enfoque integral para crear una solución personalizada desde cero.  
@@ -74,20 +58,38 @@
 
 ---
 
+### [Modalidades de Contratación] 📅
+1. **Por Proyecto:**  
+   Esta modalidad está diseñada para empresas que necesitan una solución integral a un reto de analítica de datos, ya sea para mejorar la toma de decisiones o para dar soporte a los equipos internos de análisis. Proyectos creados desde cero para una solución completa.
+
+2. **Suscripción Mensual:**  
+   Permite mantener actualizados los reportes y dashboards una vez que se ha completado el trabajo inicial de analítica de datos. Además, se puede integrar un sistema de alertas para notificar cambios importantes en los datos. Ideal para clientes que buscan un mantenimiento continuo sin necesidad de adquirir todos los servicios desde cero.
+
+3. **Servicio Puntual:**  
+   Dirigido a personas independientes o empresas que requieren un servicio específico y no están interesadas en una relación a largo plazo. Se trata de una contratación única para resolver una necesidad concreta sin compromiso de continuidad.
+
+
+---
+
 ### [Metodología de Trabajo] 🔍
 **Forma de Trabajo:**  
-Mi enfoque se centra en ofrecer análisis de datos claros y accionables utilizando solo datos estructurados. Esto asegura que cada proyecto se construya sobre una base sólida, minimizando errores y maximizando la calidad del análisis.
+Mi enfoque se centra en ofrecer análisis de datos claros y accionables utilizando datos estructurados, complementados con un profundo entendimiento del negocio y una narrativa convincente. Esto asegura que cada proyecto no solo se construya sobre una base sólida de datos, sino que también se alinee con los objetivos del negocio y comunique insights de manera efectiva.
 
 **Herramientas Utilizadas:**  
 1. Análisis y Modelado: Utilizo Python para limpieza, modelado y análisis estadístico avanzado.  
 2. Visualización y Dashboards: Desarrollo dashboards interactivos en Power BI y Tableau.  
 3. Consultas y Bases de Datos: Soporto consultas y bases de datos en SQL.
 
-**Capacidades Técnicas:**  
-1. Integración de Múltiples Fuentes: Capacidad para combinar y cruzar datos de múltiples fuentes internas y externas.  
-2. Modelos Predictivos: Implementación de Machine Learning para proyecciones y análisis de tendencias.
+**Capacidades Técnicas:** 
+1. Conocimientos empresaliares y de mercado.
+2. Storytelling: comunicar datos complejos en narrativas fáciles de entender.
+3. Manejo de datos faltantes: deteccción, exploración e imputación.
+4. Series temporales: descomposición, modelado, pronósticos y deteccción de anomalías 
+5. Integración de Múltiples Fuentes: Capacidad para combinar y cruzar datos de múltiples fuentes internas y externas.  
+6. Modelos Predictivos: Implementación de Machine Learning para proyecciones y análisis de tendencias.
 
-**Tipos de Análisis Realizados:**  
+
+**Tipos de Análisis Realizados:** 
 1. Estadística Descriptiva: Identificación y resumen de las características principales de los datos.  
 2. Estadística Inferencial: Pruebas de hipótesis y análisis estadísticos avanzados.  
 3. Exploratory Data Analysis (EDA): Exploración de patrones y correlaciones ocultas.
@@ -109,9 +111,32 @@ Mi enfoque se centra en ofrecer análisis de datos claros y accionables utilizan
 ---
 
 ### [Flujo de Contratación] 🤝
+
 1. **Videollamada Exploratoria**  
 2. **Propuesta Comercial**  
 3. **Pago Inicial del 50%**
+4. **Inicia el Flujo de Trabajo y comunicación**
+   4.1 **Asignación y Progreso de Tareas:** Las tareas se organizan por cada uno de los servicios contratados
+   4.2 **Entregables Intermedios y Finales:** Tenemos entregables intermedios y Finales. 
+5. **Feedback y Actualizaciones**: Servicios adicionales y actualizaciones bajo demanda (hasta 2 revisiones por entregable).
+6. **Cierre del Servicio:** Facturación, Repección del pago faltante y entrega final de los Entregables.
+7. **Encuesta de Satisfacción**
+8. **Construcción de relaciones**
+
+El flujo completo garantiza un manejo claro del proyecto, asegurando una comunicación constante y eficiente con el cliente y un cierre satisfactorio del contrato.
+
+### [Productos entregados por servicio] 📬
+
+## Tabla de Servicios, Entregables Intermedios y Finales
+
+| **Servicio**                            | **Entregable Intermedio**             | **Entregable Final**                            |
+|-----------------------------------------|---------------------------------------|-------------------------------------------------|
+| Limpieza de Datos                       | Informe de Diagnóstico de Datos       | Dataset Limpio y Organizado, Documentación de Procesos |
+| Exploratory Data Analysis (EDA)         | PDF Gráfico de Hallazgos Iniciales    | Insights y Recomendaciones                      |
+| Visualización de Datos                  | Propuesta de Layout del Dashboard     | Dashboard Interactivo, Loom de Guía de Usuario  |
+| Sistema de Métricas (KPIs, OKRs)        | Propuesta de Medición de Métricas     | Implementación en el Dashboard, Informe de Análisis y Documentación |
+| Machine Learning y Modelos Econométricos| Modelo Preliminar y Validación Inicial| Modelo Entrenado, Informe Técnico, Código Fuente |
+
 
 ---
 
@@ -141,7 +166,7 @@ Mi enfoque se centra en ofrecer análisis de datos claros y accionables utilizan
    Los pagos se realizan en dos partes: 50% al inicio y 50% a la entrega del proyecto.
 
 9. **¿Qué tipos de métodos de pagos poseen?**  
-   Tranferencia Bancaria: Zinli, Payoneer, Vitawallet
+   Tranferencia: Zinli, Payoneer, Vitawallet, Paypal, Stripe
    Criptonomendas: Binance, Metamask, Vitawallet
 
 
